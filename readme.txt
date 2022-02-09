@@ -1,5 +1,4 @@
-
-Historia de usuari
+Historia de usuario
 Como usuario quiero un aplicativo que me 
 permita visualizar de forma ordenada a traves 
 de un mapa la veterinaria mas cercana a mi 
